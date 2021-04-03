@@ -22,6 +22,11 @@
 
 /* reiniciamos el box-sizing, el margin y el padding*/
 
+
+/* reiniciamos el margin y el padding, ya que agrega estilo cuando es responsiva
+la pagina y con el reinicio podemos tener el control sobre los elementos
+*/
+
 * {
     box-sizing: border-box;
     margin: 0;
